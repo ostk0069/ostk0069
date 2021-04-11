@@ -8,8 +8,8 @@ I'm Takuma Osada. Please call me **osataku**
 - ⚡  Likes: Sneakers, Rock Music, Movies, Board Games, etc...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=takumaosada&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ostk0069&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takumaosada&hide=jupyter%20notebook" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostk0069&hide=jupyter%20notebook" />
 </a>
