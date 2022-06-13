@@ -2,7 +2,7 @@
 
 I'm Takuma Osada. Please call me **osataku**
 
-- 🔭 　I’m currently developing iOS Apps📱
+- 🔭 　I’m currently developing Native Apps📱
 
 - 📫 　How to reach me: [Twitter](https://twitter.com/ostk0069)
 - ⚡　Likes: Sneakers, Rock Music, Movies, Board Games, etc...
